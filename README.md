@@ -2,8 +2,6 @@
 
 # GitHub Inventory
 
-![Banner](https://raw.githubusercontent.com/ThatSINEWAVE/GitHub-Inventory/refs/heads/main/.github/SCREENSHOTS/GitHub-Inventory.png)
-
 GitHub Inventory is a Python script that helps you fetch and organize your GitHub repositories into a clean, human-readable report. The script pulls data from the GitHub API, formats it into both text and markdown formats, and saves it in separate files. It also logs important actions and provides status updates for the process. This is useful for quickly reviewing and sharing your GitHub repositories with others or maintaining an inventory of your work.
 
 </div>
