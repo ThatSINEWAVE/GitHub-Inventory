@@ -1,0 +1,329 @@
+GitHub Inventory Report
+Total Repositories: 108
+Public Repos: 108
+Private Repos: 0
+
+1. BMP-wiki (Public)
+  No description provided.
+
+2. AdviceGarden (Public)
+  A web application designed to bring a little more positivity to your day with inspirational advice.
+
+3. AreYouBored (Public)
+  A web application designed to help you discover fun activities to pass the time and cure your boredom
+
+4. Audio-Alert-System (Public)
+  Proof of Concept for the Audio Alerts System, an interactive GUI-based application designed to test and manage audio alerts across different categories.
+
+5. AvatarGenie (Public)
+  This is a fun project that allows you to create your unique avatar with ease.
+
+6. BMI-Calculator (Public)
+  This simple web application allows users to calculate their Body Mass Index (BMI) quickly and easily.
+
+7. Clicker (Public)
+  This is simple yet addictive game will keep you entertained for hours as you strive to achieve the highest click count possible.
+
+8. Clockwork (Public)
+  A web-based clock application designed for developers to create and share their own themes.
+
+9. ColorWorld-V1 (Public)
+  A simple web application that allows users to explore colors in various formats.
+
+10. ColorWorld-V2 (Public)
+  ColorWorld V2 is a web-based color picker application that allows users to select and manipulate colors in various formats including HEX, RGB, and HSL
+
+11. CorporateQuotes (Public)
+  A fun project that generates unique corporate-style phrases to impress your colleagues and friends!
+
+12. CurrencyConverter (Public)
+  A web application that allows users to easily convert between different currencies.
+
+13. CyberAvatars (Public)
+  CyberAvatars allows users to input any text, and it generates a unique avatar associated with that text.
+
+14. Discord-AI-Summarizer (Public)
+  Discord bot that analyzes and summarizes conversations in a specified channel using AI, powered by OpenAI's GPT-3.5 model.
+
+15. Discord-Bot-Tester (Public)
+  This is a simple python script that allows you to test run multiple discord bots at once.
+
+16. Discord-Honeypot-System (Public)
+  Discord Honeypot System is a Python-based monitoring tool designed for Discord server security.
+
+17. Discord-Identity (Public)
+  Discord profile identity generator that enables users to generate up to 100 quadrillion unique Discord profiles
+
+18. Discord-Invite-Checker (Public)
+  Simple utility with a web interface that allows you to check any discord invite with Discord's API.
+
+19. Discord-Invite-Finder (Public)
+  Search for active Discord invites links by generating random invite IDs and checking their status
+
+20. Discord-Invite-Project (Public)
+  The project aims to assist in OSINT investigations by providing tools to identify and study Discord servers, including potentially malicious ones
+
+21. Discord-Member-Counter (Public)
+  Simple web interface to display information about a Discord server's member count
+
+22. Discord-Rich-Presence (Public)
+  A fully customizable CLI script that lets you run your own Custom Rich Presence
+
+23. DiscordGPT-Bot (Public)
+  A Discord Bot that leverages OpenAI's API to chat with users
+
+24. DNS-Filters (Public)
+  Set of DNS Filters lists i have gathered over the years
+
+25. DoggoPics (Public)
+  a simple web application that allows users to view cute dog pictures. You can either request a random dog image or choose a specific breed from a dropdown to see images of that breed.
+
+26. DomainMonitor (Public)
+  A Python script designed to monitor the status of specified domains and report changes to a Discord channel using webhooks.
+
+27. DTH-WH-AWB-READER (Public)
+  Proof of concept project for Decathlon Romania #2
+
+28. EasyEXE (Public)
+  EasyEXE is a simple python script based on the pyinstaller library that I made to convert my python scripts to exe files easier
+
+29. ElonMuskNews (Public)
+  A simple web application that fetches and displays news related to Elon Musk using the Elon Musk API.
+
+30. EmojiFinder (Public)
+  A fun and intuitive tool to discover and explore a vast array of emojis!
+
+31. EverythingCats (Public)
+  This project aims to provide you with a perfectly delightful experience all about cats
+
+32. FakeDetails-Generator (Public)
+   This project provides a simple interface to generate fake user details, including name, gender, email, username, password, date of birth, address, phone number, and more.
+
+33. FamousPoetry (Public)
+  This project allows users to read famous poetry from various writers.
+
+34. ForesightGPT (Public)
+  A web-based simulation tool that leverages OpenAI's API to generate probabilistic outcomes based on user-defined parameters.
+
+35. FruitFacts (Public)
+  A simple web application where you can explore the nutritional facts of various fruits
+
+36. GeoISS (Public)
+  Web application that allows you to track the location of the International Space Station (ISS) in real-time.
+
+37. GuardianWatch-Bot (Public)
+  Simple discord bot that grabs all the public data about each user inside a server and outputs a list
+
+38. Ham-Radio-Logbook (Public)
+  Web application for ham radio operators to log and manage their frequently used radio frequencies
+
+39. Harmonics-Calculator (Public)
+  A web-based application designed to help users calculate and visualize the harmonic frequencies and their corresponding properties based on a given transmission frequency.
+
+40. HivemindAI (Public)
+  A supertool that allows you to connect ChatGPT, Gemini and Claude 3 Opus and have a team at your disposal for any task!
+
+41. InsaneIdeas (Public)
+  InsaneIdeas is a simple yet powerful web application designed to spark creativity and innovation
+
+42. IP-Lookup-Bot (Public)
+  This is a simple bot that uses IP-API to check and output a nicely formatted message directly in Discord for any IP you input.
+
+43. Jokes4U (Public)
+  Welcome to Jokes4U, a simple web application where you can enjoy a variety of jokes at the click of a button!
+
+44. Langton-Ant-Game (Public)
+  Langton's Ant is a two-dimensional Turing machine invented by Chris Langton in 1986.
+
+45. LinkWarden-Bot (Public)
+  A bot that uses various APIs to scan links directly inside any discord server automatically
+
+46. LocalQR (Public)
+  Simple web application that allows users to scan QR codes using their device's camera or upload images to scan for QR codes.
+
+47. MagicMusic (Public)
+  MagicMusic Generator is a web application that allows users to explore random music genres and storylines.
+
+48. Malicious-URLs-DB (Public)
+  A comprehensive security dashboard tracking malicious activities with advanced analytics capabilities.
+
+49. Malware-Samples (Public)
+  This repository contains 130 malware and ransomware samples for research and analysis purposes.
+
+50. Message-Paster (Public)
+  a simple yet powerful tool for assigning custom keybinds to frequently used messages. The application allows you to send predefined messages to any text field by simply pressing the corresponding keybind. It uses Python's pyautogui for simulating keystrokes and keyboard for capturing hotkeys.
+
+51. MinecraftSeeds (Public)
+  This is a simple web application hosted on GitHub Pages that allows you to generate unique Minecraft seeds based on input words and preferences.
+
+52. Monte-Carlo-Engine (Public)
+  A web-based simulation tool that leverages the Monte Carlo method to generate probabilistic outcomes based on user-defined parameters.
+
+53. MusicGenreDB (Public)
+  An archive dedicated to preserving and extending the original work of Glenn McDonald, the former Data Alchemist at Spotify, known for his project Every Noise at Once
+
+54. Netcraft-API-Client (Public)
+  command-line interface for interacting with the Netcraft API
+
+55. Network-Speed-Monitor (Public)
+  Simple speedtest script that runs locally once every 5 minutes based on Speedtest CLI
+
+56. New-Tab (Public)
+  A beautifully customizable new tab replacement for modern browsers. Transform your browser's new tab page into a sleek, personalized dashboard with multiple themes and search engine options.
+
+57. Notepad (Public)
+  Notepad is a modern, customizable text editor built using Python and Tkinter, designed to replace the default Windows Notepad. With features such as multiple tabs, a custom theme, and enhanced user interface, this application aims to provide a more functional and visually appealing experience for users.
+
+58. Notepad-Online (Public)
+  A modern, tabbed notepad application that runs in your browser with auto-save functionality and native file system integration.
+
+59. NumberTrivia (Public)
+  A web application that provides interesting and educational facts about numbers, dates, and years.
+
+60. OpenDictionary (Public)
+  OpenDictionary is a web application that allows users to search for word definitions using the Free Dictionary API.
+
+61. OpenTrivia (Public)
+  This is a fun and interactive trivia game where you can test your knowledge on various topics.
+
+62. OSINT-Toolkit (Public)
+  This repository serves as a comprehensive catalog for tools and websites useful in Open Source Intelligence (OSINT) investigations.
+
+63. Password-Generator (Public)
+  A nice and compact password generator script written fully in Python with simple customization that allows you to get the perfect passwords
+
+64. pcw-bughunters (Public)
+  No description provided.
+
+65. PCWStats (Public)
+  A web application dedicated to providing comprehensive statistics and insights for tanks within the game Project CW.
+
+66. personal-site (Public)
+  My personal website, built with Next.js, Tailwind CSS, Upstash, Contentlayer and deployed to Vercel.
+
+67. PhoneDB (Public)
+  PhoneDB aims to create a comprehensive database of every possible phone number on the planet.
+
+68. PredictionEngine (Public)
+  This is a web application that provides predictions based on your name.
+
+69. Project-Reminder (Public)
+  DocTrack is a web app designed to help Romanian citizens track official documents (ID card, driver's license, etc.) and receive expiration reminders.
+
+70. PureTask (Public)
+  Minimalist task management web app designed to help users organize and track their daily tasks efficiently.
+
+71. QuoteHarbor (Public)
+  QuoteHarbor is a simple web application hosted on GitHub Pages that allows users to discover and enjoy inspiring quotes.
+
+72. Random-File-Deleter (Public)
+  Small joke script wrote as a sort of prank. Use it at your own risk.
+
+73. RapidQR (Public)
+  A user-friendly and efficient QR code generator. With RapidQR, you can quickly generate QR codes with custom data and resolution.
+
+74. Ray-Tracing-Simulator (Public)
+  Interactive ray tracing simulation built with JavaScript and HTML5 Canvas.
+
+75. Secret-Santa (Public)
+  A beautiful, interactive web application for organizing Secret Santa gift exchanges. Built with Flask and modern web technologies, this application provides a seamless and enjoyable experience for managing your holiday gift exchange.
+
+76. ShorterURLs (Public)
+  A simple and intuitive tool designed to help you shorten your URLs quickly and efficiently.
+
+77. SIGINT-Triangulation-System (Public)
+  Web-based application designed to simulate and visualize signal triangulation using geospatial data.
+
+78. Simple-Python-Scripts (Public)
+  A collection of various scripts and programs written in Python to help beginners and enthusiasts make their first contributions
+
+79. Spy.pet-Info (Public)
+  This repository serves as an index for all info the community has gathered on the Spy.pet situation and as well as my own tables and tools written for these investigations. Spy.pet was taken down by Discord on 11.08.2024, this is just an archive of what bots where in each server.
+
+80. SunINFO (Public)
+  Simple web application that provides users with sunrise, sunset, and twilight times based on their location. The app uses the user's IP address to determine their location and fetches data from the Sunrise-Sunset API to display the relevant information.
+
+81. team-site (Public)
+  Team site built with Next.js, Tailwind CSS, Upstash, Contentlayer and deployed to Vercel.
+
+82. Telegram-Logger (Public)
+  Simple function that can be copy-pasted into any Python script to add logging to Telegram chats
+
+83. Tensorflow-AI (Public)
+  Chatbot using TensorFlow and Keras. The chatbot is designed to respond to user queries and prompts with contextually relevant answers.
+
+84. Text-Scrambler (Public)
+  A simple web app that encodes and decodes text using a custom scrambling method based on a decoding word.
+
+85. Text-to-Speech (Public)
+  Simple Text to Speech script based on the gTTS library
+
+86. ThatSINEWAVE (Public)
+  Config files for my GitHub profile.
+
+87. Timekeeping-Platform (Public)
+  Proof of concept for a locally hosted timekeeping platform
+
+88. TimeMaster (Public)
+  Prototype web application that provides various time-related calculations and utilities. Built with vanilla JavaScript, HTML, and CSS, it offers a simple interface for interacting with the DigiDates API.
+
+89. Today-I-Will-Commit (Public)
+  This project is a simple web application that helps you generate a random commit message for the day.
+
+90. Uncovered (Public)
+  Uncovered is a simple web application designed to perform domain/IP scans.
+
+91. URL-Analysis-Tool (Public)
+  Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services.
+
+92. UselessFacts (Public)
+  simple web application that fetches and displays random useless facts from an API. Click the button to get a new fact every time!
+
+93. UserAgentLookup (Public)
+  A simple web application designed to help you easily check and retrieve information about your UserAgent string or any other UserAgent string.
+
+94. UUID-Generator (Public)
+  Simple web application that allows users to generate UUIDs of different versions and download them as a text file
+
+95. Veil-Browser (Public)
+  Veil Browser is a privacy-first web browser designed to eliminate tracking, data collection, and intrusive analytics.
+
+96. Video-Processor (Public)
+  Video Processor script that automates AD making
+
+97. WaifuZone (Public)
+  Welcome to WaifuZone, an interactive web application to explore and enjoy various anime-style images!
+
+98. Wall-of-Fame (Public)
+  Honoring the amazing contributors who improved my projects!
+
+99. Watchlist-Bot (Public)
+  A Discord bot designed to monitor specified channels for new invite links and URLs, providing detailed information about them.
+
+100. WGPinger-Bot (Public)
+  A discord bot that uses Wargaming's API to check the status of each server while also checking the ping locally
+
+101. WGPinger-Online (Public)
+  Web-based ping monitoring tool for Wargaming servers, providing real-time latency checks with modern UI/UX. The online counterpart to the WGPinger Discord Bot.
+
+102. WhatsMyIP (Public)
+  WhatsMyIP is a simple web application that allows users to quickly find out their IP address and related information such as hostname, city, region, country, and more.
+
+103. Whisper-Chat (Public)
+  Lightweight chat server with a web-based monitoring dashboard. This project is in very early development and is not yet ready for production use.
+
+104. World-Of-Tanks-Mods (Public)
+  This repository serves as a backup and showcase of all my mods for World Of Tanks
+
+105. WorldHolidays (Public)
+  A web application where you can explore holidays around the world
+
+106. Yes-or-No (Public)
+  This is a simple web application where you can get answers to your questions with just a click of a button.
+
+107. YetAnotherWeatherAPP (Public)
+  Yes, this is yet another weather site. I was bored so i made this.
+
+108. YetToBeBuilt (Public)
+  A clean and professional placeholder for projects hosted on GitHub Pages. It ensures a structured and informative interim page until the final project is deployed.
+
