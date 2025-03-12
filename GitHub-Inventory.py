@@ -10,7 +10,7 @@ GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 
 # GitHub API URL
 GITHUB_API_URL = (
-    f"https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&type=all"
+    f"https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&type=all&page="
 )
 
 # Output directories
@@ -55,17 +55,27 @@ def fetch_repos(log_file):
     """Fetch GitHub repositories and return a list of repo details."""
     log_message("[INFO] Fetching repositories from GitHub...", log_file)
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-    response = requests.get(GITHUB_API_URL, headers=headers)
+    repos = []
+    page = 1
 
-    if response.status_code != 200:
-        log_message(
-            f"[ERROR] Failed to fetch repositories. Status Code: {response.status_code}",
-            log_file,
-        )
-        log_message(str(response.json()), log_file)  # Print error details
-        return []
+    while True:
+        response = requests.get(GITHUB_API_URL + str(page), headers=headers)
 
-    repos = response.json()
+        if response.status_code != 200:
+            log_message(
+                f"[ERROR] Failed to fetch repositories. Status Code: {response.status_code}",
+                log_file,
+            )
+            log_message(str(response.json()), log_file)  # Print error details
+            return []
+
+        page_repos = response.json()
+        if not page_repos:
+            break
+
+        repos.extend(page_repos)
+        page += 1
+
     log_message(f"[SUCCESS] Retrieved {len(repos)} repositories.\n", log_file)
     return repos
 
@@ -90,13 +100,13 @@ def format_repo_list(repos, log_file):
     text_output = header_text
     markdown_output = header_markdown
 
-    for repo in repos:
+    for index, repo in enumerate(repos, 1):  # Adding numbering here
         name = repo["name"]
         desc = repo["description"] or "No description provided."
         visibility = "Public" if not repo["private"] else "Private"
 
-        text_output += f"- {name} ({visibility})\n  {desc}\n\n"
-        markdown_output += f"### {name} ({visibility})\n{desc}\n\n"
+        text_output += f"{index}. {name} ({visibility})\n  {desc}\n\n"
+        markdown_output += f"### {index}. {name} ({visibility})\n{desc}\n\n"
 
     # Writing to files
     with open(text_filename, "w", encoding="utf-8") as text_file:
