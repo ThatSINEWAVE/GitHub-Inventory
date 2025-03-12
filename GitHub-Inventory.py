@@ -107,7 +107,7 @@ def format_repo_list(repos, log_file):
         markdown_file.write(markdown_output)
     log_message(f"[SAVED] Markdown report generated: {markdown_filename}", log_file)
 
-    log_message("\n[COMPLETE] All reports have been successfully created.", log_file)
+    log_message("[COMPLETE] All reports have been successfully created.", log_file)
 
 
 def main():
@@ -118,12 +118,12 @@ def main():
 
     log_filename = f"{LOGS_FOLDER}/log.txt"
     with open(log_filename, "a", encoding="utf-8") as log_file:
-        log_message("\n🔹 Starting GitHub Inventory Tool 🔹\n", log_file)
+        log_message("🔹 Starting GitHub Inventory Tool 🔹\n", log_file)
         check_folders(log_file)
         repos = fetch_repos(log_file)
         if repos:
             format_repo_list(repos, log_file)
-        log_message("\n✅ Done. Exiting program.\n", log_file)
+        log_message("✅ Done. Exiting program.\n", log_file)
 
 
 if __name__ == "__main__":
