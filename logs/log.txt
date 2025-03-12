@@ -1,16 +1,17 @@
-2025-03-12_02-56-03 - 🔹 Starting GitHub Inventory Tool 🔹
+2025-03-12_03-01-07 - 🔹 Starting GitHub Inventory Tool 🔹
 
-2025-03-12_02-56-03 - [INFO] Checking output directories...
-2025-03-12_02-56-03 - [CREATED] Folder 'output/text' was missing and has been created.
-2025-03-12_02-56-03 - [CREATED] Folder 'output/markdown' was missing and has been created.
-2025-03-12_02-56-03 - [SUCCESS] All necessary folders are ready.
+2025-03-12_03-01-07 - [INFO] Checking output directories...
+2025-03-12_03-01-07 - [CREATED] Folder 'output/text' was missing and has been created.
+2025-03-12_03-01-07 - [CREATED] Folder 'output/markdown' was missing and has been created.
+2025-03-12_03-01-07 - [SUCCESS] All necessary folders are ready.
 
-2025-03-12_02-56-03 - [INFO] Fetching repositories from GitHub...
-2025-03-12_02-56-03 - [SUCCESS] Retrieved 100 repositories.
+2025-03-12_03-01-07 - [INFO] Fetching repositories from GitHub...
+2025-03-12_03-01-08 - [SUCCESS] Retrieved 108 repositories.
 
-2025-03-12_02-56-03 - [INFO] Formatting repository data...
+2025-03-12_03-01-08 - [INFO] Formatting repository data...
 
-2025-03-12_02-56-03 - [SAVED] Text report generated: output/text/text_output_2025-03-12_02-56-03.txt
-2025-03-12_02-56-03 - [SAVED] Markdown report generated: output/markdown/markdown_output_2025-03-12_02-56-03.txt
-2025-03-12_02-56-03 - [COMPLETE] All reports have been successfully created.
-2025-03-12_02-56-03 - ✅ Done. Exiting program.
+2025-03-12_03-01-08 - [SAVED] Text report generated: output/text/text_output_2025-03-12_03-01-08.txt
+2025-03-12_03-01-08 - [SAVED] Markdown report generated: output/markdown/markdown_output_2025-03-12_03-01-08.txt
+2025-03-12_03-01-08 - [COMPLETE] All reports have been successfully created.
+2025-03-12_03-01-08 - ✅ Done. Exiting program.
+
